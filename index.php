@@ -1,1 +1,1 @@
-<?php include_once("hatmail.html") ?>
+<?php include_once("index.html") ?>
